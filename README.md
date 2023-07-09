@@ -1,1 +1,1 @@
-# Real-time-Chat-App-master
+# Real time social media chat website (codeial)
